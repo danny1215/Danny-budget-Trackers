@@ -35,7 +35,7 @@ This Application can be used by clonning it, open in command prompt or bash.  Th
 ## LINK TO THE Deployed link
 
 
-- https://dashboard.heroku.com/apps/pure-river-76451
+- https://pure-river-76451.herokuapp.com/
 
 ## SCREENSHOTS
 
